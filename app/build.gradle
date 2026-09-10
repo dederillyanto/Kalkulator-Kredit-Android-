@@ -1,0 +1,16 @@
+plugins {
+    id 'com.android.application'
+}
+
+android {
+    namespace 'com.jarvis.kalkulatoradminkredit'
+    compileSdk 35
+
+    defaultConfig {
+        applicationId 'com.jarvis.kalkulatoradminkredit'
+        minSdk 24
+        targetSdk 35
+        versionCode 6
+        versionName '5.2'
+    }
+}
